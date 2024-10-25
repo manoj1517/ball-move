@@ -1,4 +1,4 @@
-# ball-move
+
 # Bouncing Ball Animation
 
 This is a simple web project that demonstrates a ball bouncing within a `600x600` container using HTML, CSS, and JavaScript.
